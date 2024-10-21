@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @contentw1
+- 👀 I’m interested in machine learning, web development, game design, and data science. 
+- 🌱 I’m currently learning Python, GoLang, and Redis.
+- 💞️ I’m looking to collaborate on open-source projects with other developers and build websites with designers.
+- 📫 How to reach me: 1483822519@qq.com
+- 😄 Pronouns: wcont 
+- ⚡ Fun fact: I have a lot of crazy ideas, I'm a GoLang pro, and I once independently developed a brain-training mini-game.
